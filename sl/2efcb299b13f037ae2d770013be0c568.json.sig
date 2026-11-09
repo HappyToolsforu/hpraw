@@ -1,1 +1,1 @@
-{"kid": "n1", "alg": "ecdsa-p256-sha256", "sig": "MEUCIFmzk2UQmoa94bf0czxFtBG9nrpMYB1n5CI3fbjx6tbWAiEAn3NFZ52/kFmWFwMzr/+iH7mA1dkR1oq6vQWxs4PQIHo="}
+{"kid": "n1", "alg": "ecdsa-p256-sha256", "sig": "MEUCIBhbnkKSG2rqSasz5S0dTYS6+owj0KFp3R4Wng90GoC8AiEA6oSa3+GvdSHdSbX8QvUHKKPZS3vJ7nX+9o9DhO8ICu4="}
